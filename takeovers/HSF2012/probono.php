@@ -33,7 +33,7 @@ body {
                 <td><?PHP
 $number=1;
 $category=15;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
               </tr>
               </table></td>

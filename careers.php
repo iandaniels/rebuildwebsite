@@ -77,7 +77,7 @@ body,td,th {
 $number=1;
 $template="CareersExternal";
 $category=21;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
                               </tr>
                             </table></td>
@@ -98,7 +98,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
 $number=1;
 $template="CareersInternal";
 $category=20;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
                               </tr>
                             </table></td>
@@ -116,7 +116,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
                 <td><?PHP
 $number=1;
 $category=6;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
               </tr>
                 <td><p align="center"><a href="resources/Applications%20Guide%202013.pdf"><font face="Arial, Helvetica, sans-serif">Download 

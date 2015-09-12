@@ -33,7 +33,7 @@ body {
                  <?PHP
 $number=1;
 $category=16;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?>
                 </div></td>
               </tr>
@@ -48,7 +48,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
 $number=1;
 $template="Latest";
 $category=17;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?>
                 </div></td>
               </tr>

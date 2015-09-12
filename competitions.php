@@ -85,7 +85,7 @@ Senior Negotiations Competition </font></a></p></td>
                 <td><?PHP
 $number=1;
 $category=8;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
               </tr>
               <tr>

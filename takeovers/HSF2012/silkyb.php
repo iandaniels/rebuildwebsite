@@ -35,7 +35,7 @@ body {
 $number=5;
 $template="FeaturedBlog";
 $category=3;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                   </tr>
                 </table></td>
@@ -56,7 +56,7 @@ include("/home5/ucllawso/public_html/news/show_news.php");
 $number=1;
 $template="AshurstBlog";
 $category=2;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                                   </tr>
                                 </table></td>
@@ -77,7 +77,7 @@ include("/home5/ucllawso/public_html/news/show_news.php");
 $number=1;
 $template="ReedSmithBlog";
 $category=1;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                                   </tr>
                                 </table></td>
@@ -98,7 +98,7 @@ include("/home5/ucllawso/public_html/news/show_news.php");
 $number=3;
 $template="Headlines";
 $category=4;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                       </tr>
                       <tr>
@@ -113,7 +113,7 @@ include("/home5/ucllawso/public_html/news/show_news.php");
 $number=1;
 $template="Eargasm";
 $category=6;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                               </tr>
                             </table></td>
@@ -134,7 +134,7 @@ include("/home5/ucllawso/public_html/news/show_news.php");
 $number=1;
 $template="YoutubeCorner";
 $category=5;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                                   </tr>
                                 </table></td>

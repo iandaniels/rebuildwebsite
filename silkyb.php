@@ -40,7 +40,7 @@ body {
 $number=1;
 $template="AshurstBlog";
 $category=2;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                           </tr>
                         </table></td>
@@ -61,7 +61,7 @@ include("/home5/ucllawso/public_html/news/show_news.php");
 $number=1;
 $template="ReedSmithBlog";
 $category=1;
-include("/home5/ucllawso/public_html/news/show_news.php");
+require './news/show_news.php';
 ?></td>
                             </tr>
                           </table></td>

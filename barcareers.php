@@ -74,7 +74,7 @@ a:active {
                           <?PHP
 $number=1;
 $category=23;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?>
                         </p>
                         <p><font color="#333333" size="-1" face="Arial, Helvetica, sans-serif"> 
