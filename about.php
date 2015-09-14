@@ -97,7 +97,7 @@ require './content/show_news.php';
                     </td>
                     <td valign="top">
                       <h1>Charlie Carman</h1>
-                      <h2>Treasurer<h1>
+                      <h2>Treasurer</h2>
                       <p><a href="mailto:charles.carman.13@ucl.ac.uk">charles.carman.13@ucl.ac.uk</a></p>
                       <p class="committee-role">Responsible for the Society's finances.</p>
                     </td>
