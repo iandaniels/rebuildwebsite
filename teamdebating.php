@@ -30,7 +30,7 @@ body {
                 <td><a href="competitions.php"><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif">&lt; Back</font></a></td>
               </tr>
               <tr>
-                <td height="18"><p align="justify" style="line-height:150%"><img src="images/fucking team debating text.png" width="750" height="16" /></p></td>
+                <td height="18"><p align="justify" style="line-height:150%"><img src="images/blp_team_debating_text.png" /></p></td>
               </tr>
               <tr>
                 <td><?PHP
@@ -44,6 +44,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
         </table></td>
       </tr>
     </table></td>
+    
     <td width="39"><img src="images/blank.gif" width="40" height="60" /></td>
 
   </tr>
