@@ -71,8 +71,8 @@ Senior Negotiations Competition </font></a></p></td>
                   </tr>
                   <tr>
                     <td bgcolor="#FFFFFF">&nbsp;</td>
-                    <td bgcolor="#FFFFFF"><p align="center"><a href="teamdebating.php"><img src="images/logos/filed fisher.jpg" width="257" height="46"  alt=""/><br>
-                      <a href="teamdebating.php"><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif" style="text-align: center">Team Debating Competition</font></a></p></td>
+                    <td bgcolor="#FFFFFF"><p align="center"><a href="teamdebating.php"><img src="images/logos/BLP_logo.png" alt="BLP logo" style=margin-bottom:10px;/><br>
+                      <font color="#000000" size="-1" face="Arial, Helvetica, sans-serif" style="text-align: center">Team Debating Competition</font></a></p></td>
                     <td bgcolor="#FFFFFF">&nbsp;</td>
                   </tr>
                 </table>
