@@ -44,7 +44,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="home.php">HOME</a></li>
+                    <li class="active"><a href="index.php">HOME</a></li>
 					<li><a href="news.php">NEWS</a></li>
                     <li><a href="socials.php">SOCIALS</a></li>
                     <li><a href="careers.php">CAREERS</a></li>
@@ -52,7 +52,7 @@
                     <li><a href="competitions.php">COMPETITIONS</a></li>
                     <li><a href="silkyb.php">SILK v BRIEF</a></li>
                     <li><a href="#">OVERSEAS</a></li>
-					<li><a href="socials.php">SPORTS</a></li>
+					<li><a href="sports.php">SPORTS</a></li>
                     <li><a href="probono.php">PRO BONO</a></li>
                     <li><a href="#">YEAR REPS</a></li>
                     <li><a href="about.php">ABOUT</a></li>
