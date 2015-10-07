@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -134,8 +134,8 @@
 
 	<footer class="footer navbar-inverse">
 		<div class="container">
-		<h2>footer!</h2>
-		<p>This is some footer text.</p>
+		<h2>footer</h2>
+		<p>&copy; UCL Law Society.</p>
 		</div>
 	</footer>
 
