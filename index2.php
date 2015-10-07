@@ -132,9 +132,10 @@
 
     </div>
 
-	<footer class="footer">
+	<footer class="footer navbar-inverse">
 		<div class="container">
-			<p></p>
+		<h2>footer!</h2>
+		<p>This is some footer text.</p>
 		</div>
 	</footer>
 

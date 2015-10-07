@@ -30,3 +30,18 @@ h1,h2,h3,h4 {
 .law-sponsor {
     ;
 }
+
+
+.container {
+ /*
+  width: auto;
+  max-width: 680px;
+  
+  padding: 0 15px;
+     */
+}
+
+.footer {
+    margin-top: 15px;
+    /*background-color: rgba(34,34,34,1);*/
+}
