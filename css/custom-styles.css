@@ -22,8 +22,9 @@ h1,h2,h3,h4 {
 }
 
 .law-sponsor [class^="col-"] {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    /* 15? */
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 .law-sponsor {

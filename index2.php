@@ -45,44 +45,46 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="home.php">HOME</a></li>
-                    <li><a href="about.php">ABOUT</a></li>
+					<li><a href="news.php">NEWS</a></li>
                     <li><a href="socials.php">SOCIALS</a></li>
                     <li><a href="careers.php">CAREERS</a></li>
                     <li><a href="barcareers.php">BAR CAREERS</a></li>
                     <li><a href="competitions.php">COMPETITIONS</a></li>
                     <li><a href="silkyb.php">SILK v BRIEF</a></li>
                     <li><a href="#">OVERSEAS</a></li>
+					<li><a href="socials.php">SPORTS</a></li>
                     <li><a href="probono.php">PRO BONO</a></li>
                     <li><a href="#">YEAR REPS</a></li>
-                    <li><a href="#">FARHAD'S CORNER</a></li>
+                    <li><a href="about.php">ABOUT</a></li>
+                    <li><a href="#">FAHAD'S CORNER</a></li>
                 </ul>
             </div>
         </div>
     </nav>
     <div class="container">
 
-        <div class="page-header">
-            <h1>UCL Law Society</h1>
-        </div>
         <!--<p>
             <img src="images/home_banner.png" />
         </p>-->
 
         <div class="row">
             <div class="col-md-6">
-			<!--<p>
+			    <h1>UCL Law Society</h1>
+				<h3>Welcome</h3>
 				<?PHP 
 				  $number=1;
 				  $category=1;
 				  require './content/show_news.php';
 				?>
-			</p>-->
-                <p>
-                    Welcome to the online home of UCL Law Society, the student Law Society for undergraduate students of the
-                    Faculty of Laws at University College London. The UCL Law Society is one of, if not the most, lively and
-                    interactive of all student societies at UCL, and we pride ourselves on our diversity and originality.
-                    We are students, elected by students, working with students, for the students.
-                </p>
+            </div>
+           <div class="col-md-6">
+                <h3>Latest News</h3>
+                <?PHP
+					$number=3;
+					$template="Latest";
+					$category=3;
+					require './content/show_news.php';
+                ?>
             </div>
         </div>
 
@@ -132,7 +134,7 @@
 
 	<footer class="footer">
 		<div class="container">
-			<p>Hello there</p>
+			<p></p>
 		</div>
 	</footer>
 
