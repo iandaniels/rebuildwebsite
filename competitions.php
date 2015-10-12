@@ -1,105 +1,190 @@
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<style type="text/css">
-@import url("HITROAD/stylesheet.css");
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="The UCL Law Society">
+    <meta name="author" content="The UCL Law Society">
+    <!--<link rel="icon" href="favicon.ico">-->
+    <link rel="icon" type="image/png" href="/images/icon.png" />
 
-body {
-	background-image: url(images/main_bg.png);
-	margin-top: 0;
-	padding-top: 0;
-	line-height: 200%;
-.Body {
-	font-family: Tahoma, Geneva, sans-serif;
-}
-.bodytext {
-	line-height: 150%;
-}
-a:link {
-	text-decoration: none;
-	color: #FFF;
-}
-a:visited {
-	text-decoration: none;
-	color: #FFF;
-}
-a:hover {
-	text-decoration: underline;
-	color: #FFF;
-}
-a:active {
-	text-decoration: none;
-	color: #FFF;
-}
-</style>
-<table width="1061" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-<td width="40"><img src="images/blank.gif" width="40" height="60" /></td>
+    <title>The UCL Law Society</title>
 
-    <td width="982"><table width="980" border="0" cellspacing="0">
-      <tr>
-        <td><img src="images/banner_competitions.png" width="980" height="307" /></td>
-      </tr>
-      <tr>
-        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="5">
-          <tr>
-            <td><table width="100%" border="0" cellspacing="10">
-              <tr>
-                <td><img src="images/text_quicklinks.png" width="378" height="16" /></td>
-              </tr>
-              <tr>
-                <td><table width="100%" border="0" cellspacing="10" cellpadding="10">
-                  <tr>
-                    <td bgcolor="#4E1D52"><p align="center" style="line-height:150%"><a href="seniormoots.php"><em><font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><img src="images/logos/white/slaughterandmay.png" width="250" height="30" /><br />
-                    </font></em><font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif">Senior Mooting Competition</font>
-                    </a></p></td>
-                    <td bgcolor="#60C1AA"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tr>
-                        <td><img src="images/logos/white/herbertsmithfreehills.png" width="136" height="60" border="0" /></td>
-                        <td align="right" valign="bottom"><p style="line-height:150%"><a href="juniormoots.php"><font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif">Junior Mooting<br />
-                          Competition </font></a></p></td>
-                      </tr>
-                    </table></td>
-                    <td bgcolor="#000000"><p align="center" style="line-height:150%"><a href="clientinterviewing.php"><font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><img src="images/logos/white/macfarlanes.png" width="250" height="30" /><br />
-                      Client Interviewing Competition                    </font></a></p></td>
-                  </tr>
-                  <tr>
-                    <td bgcolor="#225A73"><p align="center" style="line-height:150%"><a href="debating.php"><font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><img src="images/logos/white/cliffordchance.png" width="250" height="30" /><br />
-                      Singles Debating Competition                    </font></a></p></td>
-                    <td bgcolor="#FFFFFF"><p align="center" style="line-height:150%"><a href="seniornegs.php"><font color="#000000" size="-1" face="Arial, Helvetica, sans-serif"><img src="images/logos/white/shearman.png" width="250" height="30" /><br />
-Senior Negotiations Competition </font></a></p></td>
-                    <td bgcolor="#53B6C5"><p align="center" style="line-height:150%"><a href="juniornegs.php"><font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><img src="images/logos/white/simmons.png" width="250" height="30" /><br />
-                      Junior Negotations Competition                    </font></a></p></td>
-                  </tr>
-                  <tr>
-                    <td bgcolor="#FFFFFF">&nbsp;</td>
-                    <td bgcolor="#FFFFFF"><p align="center"><a href="teamdebating.php"><img src="images/logos/BLP_logo.png" alt="BLP logo" style=margin-bottom:10px;/><br>
-                      <font color="#000000" size="-1" face="Arial, Helvetica, sans-serif" style="text-align: center">Team Debating Competition</font></a></p></td>
-                    <td bgcolor="#FFFFFF">&nbsp;</td>
-                  </tr>
-                </table>
-                  <br /></td>
-              </tr>
-              <tr>
-                <td><img src="images/text_competitionoverview.png" width="378" height="16" /></td>
-              </tr>
-              <tr>
-                <td><?PHP
-$number=1;
-$category=8;
-require './content/show_news.php';
-?></td>
-              </tr>
-              <tr>
-                <td><img src="images/text_competitioncalendar1213.png" width="378" height="16" /></td>
-              </tr>
-              <tr>
-                <td><iframe src="https://www.google.com/calendar/embed?src=6pd5souac7dekmoi8t1cn07hs0%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="935" height="600" frameborder="0" scrolling="no"></iframe></td>
-              </tr>
-            </table></td>
-            </tr>
-        </table></td>
-      </tr>
-    </table></td>
-<td width="39"><img src="images/blank.gif" width="40" height="60" /></td>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-  </tr>
-</table>
+    <!-- Custom styles for this template -->
+    <link href="css/custom-styles.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-inverse navbar-static-top">
+        <div class="container">
+            <div class="text-center">
+                <h3><img alt="UCL Law Soc" src="images/lawsoclogo.png" /></h3>
+            </div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!--<a class="navbar-brand" href="#">Project name</a>-->
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.php">HOME</a></li>
+                    <li><a href="news.php">NEWS</a></li>
+                    <li><a href="socials.php">SOCIALS</a></li>
+                    <li><a href="careers.php">CAREERS</a></li>
+                    <li><a href="barcareers.php">BAR CAREERS</a></li>
+                    <li class="active"><a href="competitions.php">COMPETITIONS</a></li>
+                    <li><a href="silkyb.php">SILK v BRIEF</a></li>
+                    <li><a href="#">OVERSEAS</a></li>
+                    <li><a href="sports.php">SPORTS</a></li>
+                    <li><a href="probono.php">PRO BONO</a></li>
+                    <li><a href="#">YEAR REPS</a></li>
+                    <li><a href="about.php">ABOUT</a></li>
+                    <li><a href="#">FAHAD'S CORNER</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div>
+            <img class="img-responsive" src="images/banner_competitions.png" width="980" height="307" />
+        </div>
+        <div class="row">
+            <div class="col-md-10">
+                <h3>QUICK LINKS</h3>
+            </div>
+            <div class="col-md-10 col-lg-10">
+                <div class="col-sm-6 col-md-4">
+                    <a href="seniormoots.php">
+                        <div class="thumbnail">
+                            <img src="images/sponsors/SlaughterandMay.jpg" alt="Slaughter and May" />
+                            <div class="caption text-center">
+                                <h4>Senior Mooting Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <a href="juniormoots.php">
+                        <div class="thumbnail">
+                            <img src="images/sponsors/HerbertSmith.jpg" alt="Herbert Smith Freehills" />
+                            <div class="caption text-center">
+                                <h4>Junior Mooting Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <a href="clientinterviewing.php">
+                        <div class="thumbnail">
+                            <img src="images/sponsors/Macfarlanes.jpg" alt="Macfarlanes" />
+                            <div class="caption text-center">
+                                <h4>Client Interviewing Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <a href="debating.php">
+                        <div class="thumbnail">
+                            <img src="images/sponsors/CliffordChance.jpg" alt="Clifford Chance" />
+                            <div class="caption text-center">
+                                <h4>Singles Debating Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <a href="seniornegs.php">
+                        <div class="thumbnail">
+                            <img src="images/sponsors/ShearmanSterling.jpg" alt="Shearman & Sterling" />
+                            <div class="caption text-center">
+                                <h4>Senior Negotiations Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <a href="juniornegs.php">
+                        <div class="thumbnail">
+                            <img src="images/sponsors/Simmons.jpg" alt="Simmons &amp; Simmons" />
+                            <div class="caption text-center">
+                                <h4>Junior Negotiations Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <a href="teamdebating.php">
+                        <div class="thumbnail">
+                            <img src="images/logos/BLP_logo.png" alt="BLP Berwin Leighton Paisner" />
+                            <div class="caption text-center">
+                                <h4>Team Debating Competition</h4>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-10">
+                <h3>COMPETITION OVERVIEW</h3>
+                <?PHP
+					$number=1;
+					$category=8;
+					require './content/show_news.php';
+                ?>
+            </div>
+        </div>
+
+        <!--
+                <div class="row">
+                    <div class="col-md-10">
+                        <h3>COMPETITION CALENDAR</h3>
+
+                        <iframe src="https://www.google.com/calendar/embed?src=6pd5souac7dekmoi8t1cn07hs0%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="935" height="600" frameborder="0" scrolling="no"></iframe>
+
+                    </div>
+                </div>
+        -->
+
+    </div>
+    <footer class="footer navbar-inverse">
+        <div class="container">
+            <h2>footer</h2>
+            <p>&copy; UCL Law Society.</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
