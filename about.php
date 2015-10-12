@@ -137,7 +137,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
                   </tr>
                   <tr>
                     <td>
-                      <img src="images/committee/matthastingsbarcareers.jpg" width="120" height="120" />
+                      <img src="images/committee/matthastingsbarcareers2.jpg" width="120" height="120" />
                     </td>
                     <td valign="top">
                       <h1>Matt Hastings</h1>
