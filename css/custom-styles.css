@@ -21,6 +21,10 @@ h1,h2,h3,h4 {
     color: #00446A;
 }
 
+.law-header {
+    text-transform: uppercase;
+}
+
 .law-sponsor [class^="col-"] {
     /* 15? */
     padding-top: 10px;
