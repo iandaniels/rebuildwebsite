@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -67,7 +67,7 @@
 		</div>
 	    <div class="row">
             <div class="col-md-10">
-				<h3>PRO BONO AT UCL LAWS</h3>
+				<h3 class="law-header">Pro Bono at UCL Laws</h3>
 				<?PHP
 					$number=1;
 					$category=15;

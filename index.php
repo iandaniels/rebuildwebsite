@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -119,7 +119,7 @@
             <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://www.osborneclarke.com/trainees" target="new"><img class="img-responsive" src="images/logos/osborne clarke edit.jpg" /></a><a href="http://freshfields.com/uktrainees" target="new"></a></div>
             <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://www.pinsentmasons.com/en/careers/graduate-careers/" target="new"><img class="img-responsive" src="images/sponsors/PinsentMasons.png" /></a></div>
             <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://www.pwc.com/uk/careers/index.jhtml?WT.mc_id=university_ucl_lawsociety_webbanner_sept14" target="new"><img class="img-responsive" src="images/sponsors/PWC logo 2014.jpg" /></a></div>
-            <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://ukgraduates.shearman.com/"><img class="img-responsive" src="images/sponsors/Shearman&amp;Sterling.jpg" /></a></div>
+            <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://ukgraduates.shearman.com/"><img class="img-responsive" src="images/sponsors/ShearmanSterling.jpg" /></a></div>
             <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://graduates.simmons-simmons.com/en/English-Graduate"><img class="img-responsive" src="images/sponsors/Simmons.jpg" /></a></div>
 
             <div class="col-sm-4 col-xs-6 col-md-3"><a href="http://www.slaughterandmay.com/careers/trainee-solicitors.aspx" target="new"><img class="img-responsive" src="images/sponsors/SlaughterandMay.jpg" /></a></div>
