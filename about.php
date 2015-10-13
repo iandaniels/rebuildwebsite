@@ -45,7 +45,7 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="index.php">HOME</a></li>
-                    <li><a href="news.php">NEWS</a></li>
+                    <li><a href="#">NEWS</a></li>
                     <li><a href="socials.php">SOCIALS</a></li>
                     <li><a href="careers.php">CAREERS</a></li>
                     <li><a href="barcareers.php">BAR CAREERS</a></li>
@@ -305,7 +305,7 @@
     </div>
     <footer class="footer navbar-inverse">
         <div class="container">
-            <h2>footer</h2>
+            <h2>&nbsp;</h2>
             <p>&copy; UCL Law Society.</p>
         </div>
     </footer>
