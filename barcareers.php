@@ -47,14 +47,13 @@ a:active {
                       <td class="Header"><img src="images/text_barcareers.png" width="378" height="16" /></td>
                     </tr>
                     <tr> 
-                      <td class="Header"><p><font color="#333333" face="Arial, Helvetica, sans-serif" size="-1">This 
-                          section of the website is designed to tell you more 
-                          about a career at the bar, and keep all you potential 
-                          barristers up to date with what you need to be doing 
-                          whilst at university. Please do get in touch with me 
-                          at any point if you have any bar related queries. <br>
+                      <td class="Header"><p><font color="#333333" face="Arial, Helvetica, sans-serif" size="-1">Please
+                        be aware that this section of the website is currently being updated.  If you have any questions, and for 
+                        more up to date information, please contact me using the UCL Laws year group Facebook pages.
+                        
+                         <br>
                           <br>
-                          <strong>Sparsh Garg</strong></font><font color="#333333" face="Arial, Helvetica, sans-serif" size="-1"><br>
+                          <strong>Matt Hastings</strong></font><font color="#333333" face="Arial, Helvetica, sans-serif" size="-1"><br>
                           Bar Careers Secretary</font></p>
                         <p><font color="#333333" face="Arial, Helvetica, sans-serif" size="-1"> 
                           <br>
