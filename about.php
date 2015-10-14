@@ -51,10 +51,9 @@
                     <li><a href="barcareers.php">BAR CAREERS</a></li>
                     <li><a href="competitions.php">COMPETITIONS</a></li>
                     <li><a href="silkyb.php">SILK v BRIEF</a></li>
-                    <li><a href="#">OVERSEAS</a></li>
                     <li><a href="sports.php">SPORTS</a></li>
                     <li><a href="probono.php">PRO BONO</a></li>
-                    <li><a href="#">YEAR REPS</a></li>
+                    <li><a href="#">REPS</a></li>
                     <li class="active"><a href="about.php">ABOUT</a></li>
                     <li><a href="#">FAHAD'S CORNER</a></li>
                 </ul>
