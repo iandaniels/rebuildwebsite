@@ -1,6 +1,10 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Custom fonts -->
+    <script src="https://use.typekit.net/jim6vhf.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">

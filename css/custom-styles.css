@@ -13,12 +13,17 @@ body {
 }
 
 .navbar {
-    font-family: HitTheRoadRegular, Helvetica, Arial, sans-serif;
+    /*font-family: HitTheRoadRegular, Helvetica, Arial, sans-serif;*/
+    font-weight: normal;
+}
+
+body {
+    font-family: proxima-nova, Helvetica, Arial, sans-serif;
 }
 
 h1,h2,h3,h4 {
-    font-family: HitTheRoadRegular, Helvetica, Arial, sans-serif;
-    color: #00446A;
+    font-family: proxima-nova, Helvetica, Arial, sans-serif;
+    /*color: #00446A;*/
 }
 
 .law-header {
