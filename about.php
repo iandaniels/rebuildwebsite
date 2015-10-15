@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- Custom fonts -->
@@ -71,7 +71,7 @@
         <div class="row">
             <div class="col-md-10">
                 <div class="col-md-6">
-                    <h3>ABOUT</h3>
+                    <h1 class="law-header">About</h1>
                     <?PHP
                     $number=1;
                     $category=2;
@@ -79,7 +79,7 @@
                     ?>
                 </div>
                 <div class="col-md-6">
-                    <h3>COMMITTEE</h3>
+                    <h1 class="law-header">Committee</h1>
                     <ul class="media-list committee">
                         <li class="media">
                             <div class="media-left">

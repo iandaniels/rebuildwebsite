@@ -68,26 +68,27 @@
 		<div>
 			<img class="img-responsive" src="images/banner_socials.png" width="980" height="307" />
 		</div>
-	    <div class="row">
-            <div class="col-md-6">
-				<h3>SOCIALS</h3>
-				<?PHP
-					$number=1;
-					$category=4;
-					require './content/show_news.php';
-				?>
-            </div>
-           <div class="col-md-6">
-				<h3>Next Event</h3>
-				<?PHP
-					$number=1;
-					$template="Latest";
-					$category=5;
-					require './content/show_news.php';
-				?>
+        <div class="row">
+            <div class="col-lg-10">
+                <div class="col-md-6">
+                    <h1 class="law-header">Socials</h1>
+                    <?PHP
+                    $number=1;
+                    $category=4;
+                    require './content/show_news.php';
+                    ?>
+                </div>
+                <div class="col-md-6">
+                    <h1 class="law-header">Next Event</h1>
+                    <?PHP
+                    $number=1;
+                    $template="Latest";
+                    $category=5;
+                    require './content/show_news.php';
+                    ?>
+                </div>
             </div>
         </div>
-
     </div>
 	<footer class="footer navbar-inverse">
 		<div class="container">
