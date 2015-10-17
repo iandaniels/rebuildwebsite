@@ -71,7 +71,7 @@
 	    <div class="row">
             <div class="col-md-10">
                 <a href="competitions.php"><h4>&lt; Back</h4></a>
-                <h3 class="law-header">Shearman &amp; Sterling Senior Negotiations Competition</h3>
+                <h1 class="law-header">Shearman &amp; Sterling Senior Negotiations Competition</h1>
 				<?PHP
 					$number=1;
 					$category=14;

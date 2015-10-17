@@ -70,7 +70,7 @@
         </div>
         <div class="row">
             <div class="col-md-10">
-                <h3>QUICK LINKS</h3>
+                <h1 class="law-header">Competitions</h1>
             </div>
             <div class="col-md-10 col-lg-10">
                 <div class="col-sm-6 col-md-4">
@@ -154,7 +154,7 @@
 
         <div class="row">
             <div class="col-md-10">
-                <h3>COMPETITION OVERVIEW</h3>
+                <h2 class="law-header">Competitions Overiew</h2>
                 <?PHP
 					$number=1;
 					$category=8;

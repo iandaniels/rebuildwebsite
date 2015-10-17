@@ -70,7 +70,7 @@
 		</div>
 	    <div class="row">
             <div class="col-md-6">
-				<h3>GET INVOLVED</h3>
+				<h1 class="law-header">Get Involved</h1>
 				<?PHP
 					$number=1;
 					$category=16;
@@ -78,7 +78,7 @@
 				?>
             </div>
            <div class="col-md-6">
-				<h3>Next Event</h3>
+				<h1 class="law-header">Next Event</h1>
 				<?PHP
 					$number=1;
 					$template="Latest";

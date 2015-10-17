@@ -70,7 +70,7 @@
 		</div>
 	    <div class="row">
             <div class="col-md-10">
-				<h3 class="law-header">Pro Bono at UCL Laws</h3>
+				<h1 class="law-header">Pro Bono at UCL Laws</h1>
 				<?PHP
 					$number=1;
 					$category=15;

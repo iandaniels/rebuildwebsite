@@ -71,7 +71,7 @@
 
         <div class="row">
             <div class="col-md-10">
-                <h3 class="law-header">Silk v Brief</h3>
+                <h1 class="law-header">Silk v Brief</h1>
             </div>
             <div class="col-md-4">
                 <img src="images/silkyb/ashurstblog.png" width="305" height="50" />

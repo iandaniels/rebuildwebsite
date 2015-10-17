@@ -71,7 +71,7 @@
 
         <div class="row">
             <div class="col-md-6">
-                <h3 class="law-header">Next Internal Event</h3>
+                <h2 class="law-header">Next Internal Event</h2>
                 <?PHP
                     $number=1;
                     $category=21;
@@ -80,7 +80,7 @@
                 ?>
             </div>
             <div class="col-md-6">
-                <h3 class="law-header">Next External Event</h3>
+                <h2 class="law-header">Next External Event</h2>
                 <?PHP
                     $number=1;
                     $category=20;
@@ -92,7 +92,7 @@
 
 	    <div class="row">
             <div class="col-md-10">
-                <h3 class="law-header">Our Programme</h3>
+                <h1 class="law-header">Careers Programme</h1>
                 <?PHP
                 $number=1;
                 $category=6;

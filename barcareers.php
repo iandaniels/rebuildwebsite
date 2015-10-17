@@ -71,7 +71,7 @@
 
         <div class="row">
             <div class="col-md-10">
-                <h3 class="law-header">Bar Careers</h3>
+                <h1 class="law-header">Bar Careers</h1>
                 <p>
                     Please
                     be aware that this section of the website is currently being updated.  If you have any questions, and for
@@ -82,7 +82,7 @@
                     Bar Careers Secretary
                 </p>
 
-                <h3 class="law-header">Latest News</h3>
+                <h1 class="law-header">Latest News</h1>
                 <p>
                     I am very pleased to announce the imminent arrival of
                     the Bar Careers Program 2014. Please take note of all
