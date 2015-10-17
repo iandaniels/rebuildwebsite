@@ -3,7 +3,7 @@
 <head>
     <!-- Custom fonts -->
     <script src="https://use.typekit.net/jim6vhf.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,13 +49,13 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.php">HOME</a></li>
-					<li><a href="#">NEWS</a></li>
+                    <li><a href="#">NEWS</a></li>
                     <li><a href="socials.php">SOCIALS</a></li>
                     <li><a href="careers.php">CAREERS</a></li>
                     <li><a href="barcareers.php">BAR CAREERS</a></li>
                     <li><a href="competitions.php">COMPETITIONS</a></li>
                     <li><a href="silkyb.php">SILK v BRIEF</a></li>
-					<li><a href="sports.php">SPORTS</a></li>
+                    <li><a href="sports.php">SPORTS</a></li>
                     <li><a href="probono.php">PRO BONO</a></li>
                     <li><a href="#">REPS</a></li>
                     <li><a href="about.php">ABOUT</a></li>
@@ -65,28 +65,26 @@
         </div>
     </nav>
     <div class="container">
-
-        <!--<p>
-            <img src="images/home_banner.png" />
-        </p>-->
-
+        
         <div class="row">
             <div class="col-md-6">
-			    <h1>UCL Law Society</h1>
-				<h3>Welcome</h3>
-				<?PHP 
-				  $number=1;
-				  $category=1;
-				  require './content/show_news.php';
-				?>
+                <img class="img-responsive" src="images/uclmaincampus.jpg" alt="UCL Main Quad photo" />
+    
+                <h1>UCL Law Society</h1>
+                <h3>Welcome</h3>
+                <?PHP
+                $number=1;
+                $category=1;
+                require './content/show_news.php';
+                ?>
             </div>
-           <div class="col-md-6">
+            <div class="col-md-6">
                 <h3>Latest News</h3>
                 <?PHP
-					$number=3;
-					$template="Latest";
-					$category=3;
-					require './content/show_news.php';
+                $number=3;
+                $template="Latest";
+                $category=3;
+                require './content/show_news.php';
                 ?>
             </div>
         </div>
@@ -135,12 +133,12 @@
 
     </div>
 
-	<footer class="footer navbar-inverse">
-		<div class="container">
-		<h2>&nbsp;</h2>
-		<p>&copy; UCL Law Society.</p>
-		</div>
-	</footer>
+    <footer class="footer navbar-inverse">
+        <div class="container">
+            <h2>&nbsp;</h2>
+            <p>&copy; UCL Law Society.</p>
+        </div>
+    </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
