@@ -61,6 +61,7 @@
                     <li><a href="#">REPS</a></li>
                     <li><a href="about.php">ABOUT</a></li>
                     <li><a href="fahadscorner.php">FAHAD'S CORNER</a></li>
+                    <li class="active"><a href="prospectus.php">PROSPECTUS</a></li>
                 </ul>
             </div>
         </div>
