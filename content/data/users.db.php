@@ -1,5 +1,5 @@
 <?PHP die("You don't have access to open this file !!!"); ?>
-1338935490|1|administrator|f0ae6fa819445e8e8aba4126bcd453cc|Sam Whittaker|samuel.whittaker.10@ucl.ac.uk|70|0|http://ucllawsociety.co.uk/images/committee/sam.png|1445207847||
+1338935490|1|administrator|f0ae6fa819445e8e8aba4126bcd453cc|Sam Whittaker|samuel.whittaker.10@ucl.ac.uk|71|0|http://ucllawsociety.co.uk/images/committee/sam.png|1445207847||
 1338942187|2|president|28dae3c0d358eb2c5bcd4aa6793c3fc5|President||0|1||1349434748||
 1338942210|2|treasurer|6dbd0fe19c9a301c4708287780df41a2|||0|0||||
 1338942264|2|secretary|ca1f191ebb112afb499c6f75bbfe2f30|||0|0||1349434669||
