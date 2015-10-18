@@ -1,14 +1,15 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Custom fonts -->
-    <script src="https://use.typekit.net/jim6vhf.js"></script>
-    <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Custom fonts -->
+    <script src="https://use.typekit.net/jim6vhf.js"></script>
+    <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
+
     <meta name="description" content="The UCL Law Society">
     <meta name="author" content="The UCL Law Society">
     <!--<link rel="icon" href="favicon.ico">-->
@@ -59,7 +60,7 @@
                     <li class="active"><a href="probono.php">PRO BONO</a></li>
                     <li><a href="#">REPS</a></li>
                     <li><a href="about.php">ABOUT</a></li>
-                    <li><a href="#">FAHAD'S CORNER</a></li>
+                    <li><a href="fahadscorner.php">FAHAD'S CORNER</a></li>
                 </ul>
             </div>
         </div>
