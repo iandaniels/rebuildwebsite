@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
     <!-- Custom fonts -->
     <script src="https://use.typekit.net/jim6vhf.js"></script>
     <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
@@ -75,6 +74,12 @@
             <div class="col-md-10">
                 <h1 class="law-header">Silk v Brief</h1>
             </div>
+
+            <div class="col-md-6">
+                <div data-configid="13146637/12002428" style="width:525px; height:693px;" class="issuuembed"></div>
+                <script type="text/javascript" src="//e.issuu.com/embed.js" async></script>
+            </div>
+
             <div class="col-md-4">
                 <img src="images/silkyb/ashurstblog.png" width="305" height="50" />
                 <?PHP
@@ -93,10 +98,6 @@
                 ?>
             </div>
 
-            <div class="col-md-6">
-                <div data-configid="13146637/12002428" style="width:525px; height:693px;" class="issuuembed"></div>
-                <script type="text/javascript" src="//e.issuu.com/embed.js" async></script>
-            </div>
         </div>
 
         <div class="row">
