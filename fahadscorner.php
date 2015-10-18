@@ -57,7 +57,7 @@
                     <li><a href="silkyb.php">SILK v BRIEF</a></li>
                     <li><a href="sports.php">SPORTS</a></li>
                     <li><a href="probono.php">PRO BONO</a></li>
-                    <li><a href="#">REPS</a></li>
+                    <li><a href="representatives.php">REPS</a></li>
                     <li><a href="about.php">ABOUT</a></li>
                     <li class="active"><a href="fahadscorner.php">FAHAD'S CORNER</a></li>
                     <li><a href="prospectus.php">PROSPECTUS</a></li>
