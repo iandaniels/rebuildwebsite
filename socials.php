@@ -50,7 +50,7 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="index.php">HOME</a></li>
-					<li><a href="#">NEWS</a></li>
+					<li><a href="news.php">NEWS</a></li>
                     <li class="active"><a href="socials.php">SOCIALS</a></li>
                     <li><a href="careers.php">CAREERS</a></li>
                     <li><a href="barcareers.php">BAR CAREERS</a></li>
