@@ -125,13 +125,13 @@
                 <h2>Student Discounts</h2>
                 <dl>
                     <dt>NUS Extra <a href="http://www.nus.org.uk/en/nus-extra/">http://www.nus.org.uk/en/nus-extra/</a> </dt>
-                    <dd><p>buy an NUS extra card and get lots of lovely discounts. 10% off at the Co-op (including the wine section)</p></dd>
+                    <dd><p>buy an NUS extra card and get lots of lovely discounts. 10% off at the Co-op (including the wine section).</p></dd>
 
                     <dt>TfL <a href="https://tfl.gov.uk/fares-and-payments/adult-discounts-and-concessions/18-student">https://tfl.gov.uk/fares-and-payments/adult-discounts-and-concessions/18-student</a></dt>
                     <dd><p> 30% off travelcards for UCL students.</p></dd>
                 </dl>
 
-                <h2>London resources</h2>
+                <h2>London Resources</h2>
                 <dl>
                     <dt>TimeOut London – <a href="http://www.timeout.com/london">http://www.timeout.com/london</a></dt>
                     <dd><p>If a man is tired of London, he's clearly tired of reading the TimeOut listings section.</p></dd>
