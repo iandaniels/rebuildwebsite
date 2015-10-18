@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
     <!-- Custom fonts -->
     <script src="https://use.typekit.net/jim6vhf.js"></script>
     <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
@@ -50,13 +49,13 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="index.php">HOME</a></li>
-					<li><a href="news.php">NEWS</a></li>
+                    <li><a href="news.php">NEWS</a></li>
                     <li><a href="socials.php">SOCIALS</a></li>
                     <li class="active"><a href="careers.php">CAREERS</a></li>
                     <li><a href="barcareers.php">BAR CAREERS</a></li>
                     <li><a href="competitions.php">COMPETITIONS</a></li>
                     <li><a href="silkyb.php">SILK v BRIEF</a></li>
-					<li><a href="sports.php">SPORTS</a></li>
+                    <li><a href="sports.php">SPORTS</a></li>
                     <li><a href="probono.php">PRO BONO</a></li>
                     <li><a href="representatives.php">REPS</a></li>
                     <li><a href="about.php">ABOUT</a></li>
@@ -67,32 +66,34 @@
         </div>
     </nav>
     <div class="container">
-		<div>
-			<img class="img-responsive" src="images/banner_careers.png" width="980" height="307" />
-		</div>
-
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-10">
+                <div>
+                    <img class="img-responsive" src="images/careers_banner.jpg" />
+                </div>
+            </div>
+
+            <div class="col-md-5">
                 <h2 class="law-header">Next Internal Event</h2>
                 <?PHP
-                    $number=1;
-                    $category=21;
-                    $template="Latest";
-                    require './content/show_news.php';
+                $number=1;
+                $category=21;
+                $template="Latest";
+                require './content/show_news.php';
                 ?>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <h2 class="law-header">Next External Event</h2>
                 <?PHP
-                    $number=1;
-                    $category=20;
+                $number=1;
+                $category=20;
                 $template="Latest";
-                    require './content/show_news.php';
+                require './content/show_news.php';
                 ?>
             </div>
         </div>
 
-	    <div class="row">
+        <div class="row">
             <div class="col-md-10">
                 <h1 class="law-header">Careers Programme</h1>
                 <?PHP
@@ -106,14 +107,13 @@
                 <p>The 2015/16 Careers calendar is coming soon.</p>
             </div>
         </div>
-
     </div>
-	<footer class="footer navbar-inverse">
-		<div class="container">
-		<h2>&nbsp;</h2>
-		<p>&copy; UCL Law Society.</p>
-		</div>
-	</footer>
+    <footer class="footer navbar-inverse">
+        <div class="container">
+            <h2>&nbsp;</h2>
+            <p>&copy; UCL Law Society.</p>
+        </div>
+    </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
