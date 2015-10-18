@@ -68,7 +68,7 @@
     </nav>
     <div class="container">
         <div>
-            <img class="img-responsive" src="images/banner_barcareers.png" width="980" height="307" />
+            <img class="img-responsive" src="images/bar_careers_banner.jpg" width="980" height="307" />
         </div>
 
         <div class="row">
