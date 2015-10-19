@@ -139,8 +139,8 @@
                     <p>
                         <ul>
                             <li><a href="resources/Overseas-Packing-List.xlsx" target="_new">Suggested packing list for overseas students</a>.</li>
-                            <li>Looking for second hand law textbooks and revision guides? <a href="https://www.facebook.com/groups/123954354373858/?fref=ts">https://www.facebook.com/groups/123954354373858/?fref=ts</a></li>
-                            <li>Looking for private accommodation? <a href="https://www.facebook.com/groups/1580557278864720/?fref=ts">https://www.facebook.com/groups/1580557278864720/?fref=ts</a></li>
+                            <li><a href="https://www.facebook.com/groups/123954354373858/?fref=ts">Looking for second hand law textbooks and revision guides?</a></li>
+                            <li><a href="https://www.facebook.com/groups/1580557278864720/?fref=ts">Looking for private accommodation?</a></li>
                         </ul>
 
                     </p>
