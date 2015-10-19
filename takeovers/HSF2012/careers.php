@@ -58,7 +58,7 @@ a:active {
 $number=1;
 $template="CareersExternal";
 $category=21;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
                               </tr>
                             </table></td>
@@ -79,7 +79,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
 $number=1;
 $template="CareersInternal";
 $category=20;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
                               </tr>
                             </table></td>
@@ -97,7 +97,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
                 <td><?PHP
 $number=1;
 $category=6;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
               </tr>
               <tr>

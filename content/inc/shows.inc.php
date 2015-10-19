@@ -823,6 +823,10 @@ if($allow_active_news){
 }
 }while(0);
 
+// fixme
+$count_cute_news_includes++;
+
+
 if((!isset($count_cute_news_includes) or !$count_cute_news_includes) and $template != 'rss'){
 ///
 ///      Removing the "P0wered By..." line is NOT allowed by the CuteNews License, only registered users are alowed to do so.
@@ -839,4 +843,5 @@ else{
  }
 }
 $count_cute_news_includes++;
+
 ?>

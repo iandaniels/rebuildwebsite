@@ -86,7 +86,7 @@ body {
                 <td><?PHP
 $number=1;
 $category=1;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?></td>
                 </tr>
               </table></td>
@@ -100,7 +100,7 @@ include("/home5/ucllawso/public_html/content/show_news.php");
 $number=3;
 $template="Latest";
 $category=3;
-include("/home5/ucllawso/public_html/content/show_news.php");
+require './content/show_news.php';
 ?>
                   </div></td>
                 </tr>
