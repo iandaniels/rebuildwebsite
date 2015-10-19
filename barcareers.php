@@ -375,7 +375,7 @@
                 </p>
 
                 <h3 class="law-header">The Bar Proces</h3>
-                <img src="images/thebarprocess.png" alt="The Bar Process" />
+                <img class="img-responsive" src="images/thebarprocess.png" alt="The Bar Process" />
 
                 <h3 class="law-header">Mini Pupilage Deadlines</h3>
                 <p>Please note that this section is now out of date, and is in the process of being updated</p>

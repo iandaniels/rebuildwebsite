@@ -96,10 +96,10 @@
                     <dt>Twitter</dt>
                     <dd>
                         <p>
-                            <a href="https://twitter.com/UCLLaws">https://twitter.com/UCLLaws</a> - official Twitter account of the UCL Law Faculty
+                            <a href="https://twitter.com/UCLLaws"><strong>@UCLLaws</strong></a> - official Twitter account of the UCL Law Faculty
                         </p>
                         <p>
-                            <a href="https://twitter.com/UCLLawsociety">https://twitter.com/UCLLawsociety</a> - Law Soc Twitter account. More
+                            <a href="https://twitter.com/UCLLawsociety"><strong>@UCLLawsociety</strong></a> - Law Soc Twitter account. More
                             interesting that the Faculty one. <em>Allegedly</em>.
                         </p>
                     </dd>
@@ -162,15 +162,15 @@
 
                 <h2>Your Lecturers</h2>
                 <dl>
-                    <dt>Richard Moorhead - <a href="https://twitter.com/RichardMoorhead">https://twitter.com/RichardMoorhead</a> and <a href="https://lawyerwatch.wordpress.com/">https://lawyerwatch.wordpress.com/</a></dt>
+                    <dt>Richard Moorhead - <a href="https://twitter.com/RichardMoorhead">@RichardMoorhead</a> and <a href="https://lawyerwatch.wordpress.com/">https://lawyerwatch.wordpress.com/</a></dt>
                     <dd><p></p></dd>
-                    <dt>Ying Liew - <a href="https://twitter.com/yingks">https://twitter.com/yingks</a> - land law and baking</dt>
+                    <dt>Ying Liew <a href="https://twitter.com/yingks">@yingks</a> - land law and baking</dt>
                     <dd><p></p></dd>
-                    <dt>Virginia Mantouvalou - <a href="https://twitter.com/vmantouvalou">https://twitter.com/vmantouvalou</a></dt>
+                    <dt>Virginia Mantouvalou <a href="https://twitter.com/vmantouvalou">@vmantouvalou</a></dt>
                     <dd><p></p></dd>
-                    <dt>Tom Hickman - <a href="https://twitter.com/tomrhickman">https://twitter.com/tomrhickman</a></dt>
+                    <dt>Tom Hickman <a href="https://twitter.com/tomrhickman">@tomrhickman</a></dt>
                     <dd><p></p></dd>
-                    <dt>Phillipe Sands - <a href="https://twitter.com/philippesands">https://twitter.com/philippesands</a></dt>
+                    <dt>Phillipe Sands <a href="https://twitter.com/philippesands">@philippesands</a></dt>
                     <dd><p></p></dd>
                 </dl>
 
