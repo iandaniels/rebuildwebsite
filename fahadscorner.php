@@ -160,6 +160,28 @@
                 </dl>
 
 
+                <h2>Your Lecturers</h2>
+                <dl>
+                    <dt>Richard Moorhead - <a href="https://twitter.com/RichardMoorhead">https://twitter.com/RichardMoorhead</a> and <a href="https://lawyerwatch.wordpress.com/">https://lawyerwatch.wordpress.com/</a></dt>
+                    <dd><p></p></dd>
+                    <dt>Ying Liew - <a href="https://twitter.com/yingks">https://twitter.com/yingks</a> - land law and baking</dt>
+                    <dd><p></p></dd>
+                    <dt>Virginia Mantouvalou - <a href="https://twitter.com/vmantouvalou">https://twitter.com/vmantouvalou</a></dt>
+                    <dd><p></p></dd>
+                    <dt>Tom Hickman - <a href="https://twitter.com/tomrhickman">https://twitter.com/tomrhickman</a></dt>
+                    <dd><p></p></dd>
+                    <dt>Phillipe Sands - <a href="https://twitter.com/philippesands">https://twitter.com/philippesands</a></dt>
+                    <dd><p></p></dd>
+                </dl>
+
+                <h2>Other</h2>
+                <p>
+                    <a href="https://www.dropbox.com/">Dropbox</a> – download this. Because your laptop will die the night before an essay is due.
+                </p>
+                <p>
+                    Any suggestions as to further links to include, should be emailed to your Webmaster (<a href="mailto:cathryn.evans.13@ucl.ac.uk">cathryn.evans.13@ucl.ac.uk</a>).
+                </p>
+
             </div>
         </div>
     </div>
