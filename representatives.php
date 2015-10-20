@@ -78,12 +78,12 @@
                     <ul class="media-list committee">
                         <li class="media">
                             <div class="media-left">
-                                <img class="media-object" src="images/committee/placeholder.png" width="120" height="120" />
+                                <img class="media-object" src="images/committee/garethfirstyearrep.jpg" width="120" height="120" />
                             </div>
                             <div class="media-body">
-                                <h1>First year Rep:	Voting Monday October 19th</h1>
+                                <h1>Gareth Dean</h1>
                                 <h2>First Year Student Representative</h2>
-                                <p><a href="#">@ucl.ac.uk</a></p>
+                                <p><a href="mailto:gareth.dean.15@ucl.ac.uk">gareth.dean.15@ucl.ac.uk</a></p>
                                 <p class="committee-role">Society Representative for first year students.</p>
                             </div>
                         </li>
