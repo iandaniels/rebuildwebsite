@@ -120,8 +120,7 @@
                         </p>
                     </dd>
                 </dl>
-            </div>
-            <div class="col-md-6">
+
                 <h2>Student Discounts</h2>
                 <dl>
                     <dt>NUS Extra <a href="http://www.nus.org.uk/en/nus-extra/">http://www.nus.org.uk/en/nus-extra/</a> </dt>
@@ -136,6 +135,8 @@
                     <dt>TimeOut London – <a href="http://www.timeout.com/london">http://www.timeout.com/london</a></dt>
                     <dd><p>If a man is tired of London, he's clearly tired of reading the TimeOut listings section.</p></dd>
                 </dl>
+            </div>
+            <div class="col-md-6">
 
                 <h2>Official Legal Resources</h2>
                 <dl>
@@ -144,7 +145,7 @@
                     <dt>Ministry of Justice - <a href="http://www.justice.gov.uk/">http://www.justice.gov.uk/</a> - boo hiss.</dt>
                 </dl>
 
-                <h2>Alternative legal Resources</h2>
+                <h2>Alternative Legal Resources</h2>
                 <dl>
                     <dt>Legal Cheek - <a href="http://www.legalcheek.com">http://www.legalcheek.com</a></dt>
                     <dd><p>Legal news &amp; gossip, cheeky commentary and careers advice.</p></dd>
@@ -161,18 +162,32 @@
 
 
                 <h2>Your Lecturers</h2>
-                <dl>
-                    <dt>Richard Moorhead - <a href="https://twitter.com/RichardMoorhead">@RichardMoorhead</a> and <a href="https://lawyerwatch.wordpress.com/">https://lawyerwatch.wordpress.com/</a></dt>
-                    <dd><p></p></dd>
-                    <dt>Ying Liew <a href="https://twitter.com/yingks">@yingks</a> - land law and baking</dt>
-                    <dd><p></p></dd>
-                    <dt>Virginia Mantouvalou <a href="https://twitter.com/vmantouvalou">@vmantouvalou</a></dt>
-                    <dd><p></p></dd>
-                    <dt>Tom Hickman <a href="https://twitter.com/tomrhickman">@tomrhickman</a></dt>
-                    <dd><p></p></dd>
-                    <dt>Phillipe Sands <a href="https://twitter.com/philippesands">@philippesands</a></dt>
-                    <dd><p></p></dd>
-                </dl>
+                
+                <ul class="list-unstyled">                   
+                    <li><p><strong>Alex Green <a href="https://twitter.com/GlexAreen">@GlexAreen</a></strong></p></li>
+                    <li><p><strong>Colm O'Cinneide <a href="https://twitter.com/colmocinneide">@colmocinneide</a></strong></p></li>
+                    <li><p><strong>Danae Azaria <a href="https://twitter.com/azaria_danae">@azaria_danae</a></strong></p></li>
+                    <li><p><strong>Jonathan Montgomery <a href="https://twitter.com/Prof_JonMont">@Prof_JonMont</a></strong></p></li>
+                    <li><p><strong>Philippe Sands <a href="https://twitter.com/philippesands">@philippesands</a></strong></p></li>
+                    <li><p><strong>Piet Eeckhout <a href="https://twitter.com/PietEeckhout">@PietEeckhout</a></strong></p></li>
+                    <li><p><strong>Ralph Wilde <a href="https://twitter.com/ralphwilde">@ralphwilde</a></strong></p></li>
+                    <li><p><strong>Richard Moorhead - <a href="https://twitter.com/RichardMoorhead">@RichardMoorhead</a> and <a href="https://lawyerwatch.wordpress.com/">https://lawyerwatch.wordpress.com/</a></strong></p></li>
+                    <li><p><strong>Riz Mokal <a href="https://twitter.com/RizMokal">@RizMokal</a></strong></p></li>
+                    <li><p><strong>Rob George <a href="https://twitter.com/RobertHGeorge">@RobertHGeorge</a></strong></p></li>
+                    <li><p><strong>Ronan McCrea <a href="https://twitter.com/RonanMcCrea">@RonanMcCrea</a></strong></p></li>
+                    <li><p><strong>Tim Causer <a href="https://twitter.com/TimCauser">@TimCauser</a></strong></p></li>
+                    <li><p><strong>Tom Hickman <a href="https://twitter.com/TomRHickman">@TomRHickman</a></strong></p></li>
+                    <li><p><strong>Transcribe Bentham <a href="https://twitter.com/TranscriBentham">@TranscriBentham</a></strong></p></li>
+                    <li><p><strong>UCL AccessToJustice <a href="https://twitter.com/UCLCAJ">@UCLCAJ</a></strong></p></li>
+                    <li><p><strong>UCL Jrnl Law &amp; Juris <a href="https://twitter.com/ucljlj">@ucljlj</a></strong></p></li>
+                    <li><p><strong>UCL Jurisprudence <a href="https://twitter.com/UCLJuris">@UCLJuris</a></strong></p></li>
+                    <li><p><strong>UCL Labour Rights Institue (LRI) <a href="https://twitter.com/UCL_LRI">@UCL_LRI</a></strong></p></li>
+                    <li><p><strong>UCL Law &amp; Environment <a href="https://twitter.com/UCLlaw_env">@UCLlaw_env</a></strong></p></li>
+                    <li><p><strong>UCLethicsandlaw <a href="https://twitter.com/UCLethicsandlaw">@UCLethicsandlaw</a></strong></p></li>
+                    <li><p><strong>Virginia Mantouvalou <a href="https://twitter.com/vmantouvalou">@vmantouvalou</a></strong></p></li>
+                    <li><p><strong>Ying Liew <a href="https://twitter.com/yingks">@yingks</a> - land law and baking</strong></p></li>
+                </ul>
+                    
 
                 <h2>Other</h2>
                 <p>

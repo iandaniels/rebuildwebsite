@@ -68,7 +68,7 @@
     </nav>
     <div class="container">
         <div>
-            <img class="img-responsive" src="images/about_banner.jpg" width="980" height="307" />
+            <img class="img-responsive" src="images/about_banner2.jpg" width="980" height="307" />
         </div>
         <div class="row">
             <div class="col-md-10">
@@ -97,7 +97,7 @@
 
                         <li class="media">
                             <div class="media-left">
-                                <img class="media-object" src="images/committee/charliecarmantreasuerer.jpg" width="120" height="120" />
+                                <img class="media-object" src="images/committee/charlieasleeponferry.jpg" width="120" height="120" />
                             </div>
                             <div class="media-body">
                                 <h1>Charlie Carman</h1>
@@ -109,7 +109,7 @@
 
                         <li class="media">
                             <div class="media-left">
-                                <img class="media-object" src="images/committee/hyerinparksecretary.jpg" width="120" height="120" />
+                                <img class="media-object" src="images/committee/hyerinparksecretary2.jpg" width="120" height="120" />
                             </div>
                             <div class="media-body">
                                 <h1>Hyerin Park</h1>
