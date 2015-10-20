@@ -281,9 +281,9 @@
                                 <img class="media-object" src="images/committee/garethfirstyearrep.jpg" width="120" height="120" />
                             </div>
                             <div class="media-body">
-                                <h1>Gareth Dean</h1>
+                                <h1>Gareth Deane</h1>
                                 <h2>First Year Student Representative</h2>
-                                <p><a href="mailto:gareth.dean.15@ucl.ac.uk">gareth.dean.15@ucl.ac.uk</a></p>
+                                <p><a href="mailto:gareth.deane.15@ucl.ac.uk">gareth.deane.15@ucl.ac.uk</a></p>
                                 <p class="committee-role">Society Representative for first year students.</p>
                             </div>
                         </li>
