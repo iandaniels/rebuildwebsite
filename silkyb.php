@@ -75,33 +75,8 @@
                 <h1 class="law-header">Silk v Brief</h1>
             </div>
 
-            <div class="col-md-6">
-                <div data-configid="13146637/12002428" style="width:525px; height:693px;" class="issuuembed"></div>
-                <script type="text/javascript" src="//e.issuu.com/embed.js" async></script>
-            </div>
 
-            <div class="col-md-4">
-                <img src="images/silkyb/ashurstblog.png" width="305" height="50" />
-                <?PHP
-                $number=1;
-                $template="AshurstBlog";
-                $category=2;
-                require './news/show_news.php';
-                ?>
-
-                <img src="images/silkyb/reedsmithblog.png" width="305" height="50" />
-                <?PHP
-                $number=1;
-                $template="ReedSmithBlog";
-                $category=1;
-                require './news/show_news.php';
-                ?>
-            </div>
-
-        </div>
-
-        <div class="row">
-            <div class="col-md-10">
+            <div class="col-md-5">
                 <h3 class="law-header">Note from the Editor</h3>
                 <p>
                     Welcome to Silk v Brief, the flagship publication of the UCL Law Society. Affectionately known
@@ -115,8 +90,14 @@
                     Please note that all content (with the exception of content embedded from external sites and the
                     intellectual property of sponsors) is the copyright &copy; UCL Law Society. All rights reserved.
                 </p>
-
             </div>
+
+
+            <div class="col-md-5">
+                <div data-configid="13146637/12002428" style="width:525px; height:679px;" class="issuuembed"></div>
+                <script type="text/javascript" src="//e.issuu.com/embed.js" async></script>
+            </div>
+
         </div>
 
     </div>
