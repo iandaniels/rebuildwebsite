@@ -250,16 +250,25 @@
 
             </div>
         </div> <!-- row -->
+        
+        <!--
         <div class="row">
+            <hr/>
+            
+            <div class="col-md-10">
+                <h2>Cheap Eats Header!</h2>    
+            </div>
             <div class="col-md-6">
                 <h2>Cheap Eats</h2>
-                
-            </div> <!-- col -->
+                <p>Coming soon</p>        
+            </div>
             <div class="col-md-6">
                 <h2>Cheap Eats Col 2</h2>
-            
-            </div> <!-- col -->    
-        </div> <!-- row -->
+                <p>Coming soon</p>
+            </div>
+        </div> 
+        -->
+        
     </div>
     <footer class="footer navbar-inverse">
         <div class="container">
