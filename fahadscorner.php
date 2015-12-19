@@ -130,6 +130,57 @@
                     <dd><p> 30% off travelcards for UCL students.</p></dd>
                 </dl>
 
+
+                <h2>Support Services</h2>
+                <dl>
+                    <dt><a href="https://www.ucl.ac.uk/iss/welfare/support-services">UCL Support Services</a></dt>
+                    <dd><p>This includes UCL's out-of-hours student support and telephone service staffed by BACP accredited counsellors. Information about how to access the service can be found <a href="http://www.ucl.ac.uk/current-students/support/wellbeing/care-first">here.</a></p></dd>
+                    <dt><a href="http://uclu.org/services">UCLU Support Services</a></dt>
+                    <dd><p></p></dd>
+                    <dt><a href="http://www.samaritans.org">The Samaritans</a></dt>
+                    <dd><p>Freephone 116123. 24 hours a day, 365 days a year. Email: <a href="mailto:jo@samaritans.org">jo@samaritans.org</a> Central London Samaritans drop-in at 46 Marshall St, W1F 9BF. 9am-9pm every day. No appointment necessary.</p></dd>
+                    <dt><a href="http://www.nightline.org.uk">Nightline</a></dt>
+                    <dd><p>Confidential listening, support and practical information service for students in London. Phone: 020 7631 0101</p></dd>
+                    <dt><a href="http://www.rapecrisis.org.uk">Rape Crisis</a></dt>
+                    <dd><p>Support for women. Telephone 0808 802 9999 between 12 noon – 2.30pm and between 7 – 9.30pm any day of the year for confidential
+                         support and/or information about your nearest services.</p>
+                    </dd>
+                    <dt><a href="https://www.survivorsuk.org/ ">Survivors UK</a></dt>
+                    <dd><p>Help for men who who have experienced rape or sexual abuse at any time in their lives.</p></dd>
+                    <dt><a href="http://www.napac.org.uk">National Association for People Abused in Childhood</a></dt>
+                    <dd><p>Supporting recovery from childhood abuse. Tel: 0808 801 0331</p></dd>
+                    <dt><a href="http://www.b-eat.co.uk">BEAT</a></dt>
+                    <dd><p>Support and information relating to eating disorders. Helpline: 0345 634 1414. Under 25 helpline: 0845 634 7650</p></dd>
+                    <dt><a href="http://www.shelter.org.uk">Shelter</a></dt>
+                    <dd><p>Housing and homelessness charity offering advice and information. Tel: 0808 800 4444</p></dd>
+                    <dt><a href="http://www.talktofrank.com">Talk to Frank</a></dt>
+                    <dd><p>Friendly, confidential advice and information on drugs and alcohol Tel: 0300 123 6600.</p></dd>
+                    <dt>Drinkline</dt>
+                    <dd><p>National helpline for anyone concerned about their alcohol use. Tel: 0300 123 1110</p></dd>
+                    <dt><a href="http://www.switchboard.lgbt">London Lesbian and Gay Switchboard</a></dt>
+                    <dd><p>Free support and information to lesbian, gay, bisexual and transgendered communities throughout the UK. 
+                        Tel: 0300 330 0630. 10am-11pm daily.</p>
+                    </dd>
+                    <dt><a href="http://www.sane.org.uk/what_we_do/support/helpline">Saneline</a></dt>
+                    <dd><p>National, out-of-hours mental health helpline. Tel: 0300 304 7000. 6pm-11pm</p></dd>
+                    <dt><a href="http://www.nshn.co.uk">National Self Harm Network</a></dt>
+                    <dd><p>Help for people who self-harm. Runs a peer-led support forum</p></dd>
+                    <dt>Pregnancy and Abortion Services </dt>
+                    <dd>
+                        <p><a href="https://www.brook.org.uk/your-life/category/pregnancy">Brook</a> runs a free information and support 
+                        to under 25s throughout the UK about topics such as sex, relationships, pregnancy, abortion, 
+                        having a baby, STIs and contraception. Ask Brook also run a free, confidential 
+                        helpline - 0808 802 1234 (Monday-Friday 11:00am-3:00pm). 
+                        <a href="https://www.bpas.org/">The British Pregnancy Advisory Service</a> is the UK's leading abortion 
+                        care service.</p>
+                    </dd> 
+                </dl>
+            </div>
+           
+           
+           
+           
+            <div class="col-md-6">
                 <h2>London Resources</h2>
                 <dl>
                     <dt>TimeOut London – <a href="http://www.timeout.com/london">http://www.timeout.com/london</a></dt>
@@ -198,7 +249,17 @@
                 </p>
 
             </div>
-        </div>
+        </div> <!-- row -->
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Cheap Eats</h2>
+                
+            </div> <!-- col -->
+            <div class="col-md-6">
+                <h2>Cheap Eats Col 2</h2>
+            
+            </div> <!-- col -->    
+        </div> <!-- row -->
     </div>
     <footer class="footer navbar-inverse">
         <div class="container">
