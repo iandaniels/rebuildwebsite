@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -77,6 +77,10 @@
 
 
             <div class="col-md-5">
+                <h3 class="law-header">Current Edition Winter 2015</h3>
+                <p>
+                    Silk v Brief can be viewed on this page, or downloaded <a href="https://drive.google.com/file/d/0B0GHBKS71bFIc3RPd0lWRDRFWWs/view?usp=sharing">here</a>.
+                </p>    
                 <h3 class="law-header">Note from the Editor</h3>
                 <p>
                     Welcome to Silk v Brief, the flagship publication of the UCL Law Society. Affectionately known
@@ -90,11 +94,22 @@
                     Please note that all content (with the exception of content embedded from external sites and the
                     intellectual property of sponsors) is the copyright &copy; UCL Law Society. All rights reserved.
                 </p>
+
+                <h3 class="law-header">Back Issues</h3>
+                    <ul>
+                        <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFIdjRHUWNJVVRxMEU/view?usp=sharing">Spring/Summer 2015</a></li>
+                        <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFIcGNVYnRGWTFtOVk/view?usp=sharing">Winter 2014</a></li>
+                        <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFILVlmQ056aXFyc00/view?usp=sharing">Spring/Summer 2014</a></li>
+                        <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFIMnpUYjd4clVEZ0U/view?usp=sharing"> Winter 2013</a></li>
+                        <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFIaWlCMl9JeEZCS28/view?usp=sharing"> Spring/Summer 2012</a></li>
+                        <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFIcUtZa19pOHd2ck0/view?usp=sharing"> Winter 2011</a></li>
+                    </ul>
+                <p>
             </div>
 
 
             <div class="col-md-5">
-                <div data-configid="13146637/12002428" style="width:525px; height:679px;" class="issuuembed"></div>
+                <div data-configid="13146637/32258646" style="width:525px; height:679px;" class="issuuembed"></div>
                 <script type="text/javascript" src="//e.issuu.com/embed.js" async></script>
             </div>
 

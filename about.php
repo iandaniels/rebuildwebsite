@@ -182,7 +182,7 @@
 
                         <li class="media">
                             <div class="media-left">
-                                <img class="media-object" src="images/committee/roshnimehravocations.jpg" width="120" height="120" />
+                                <img class="media-object" src="images/committee/roshninewcommitteepic1.jpg" width="120" height="120" />
                             </div>
                             <div class="media-body">
                                 <h1>Roshni Mehra</h1>
@@ -206,7 +206,7 @@
 
                         <li class="media">
                             <div class="media-left">
-                                <img class="media-object" src="images/committee/firozadodhipublications.jpg" width="120" height="120" />
+                                <img class="media-object" src="images/committee/firoza%20committee%20new%20pic.jpg" width="120" height="120" />
                             </div>
                             <div class="media-body">
                                 <h1>Firoza Dodhi</h1>
@@ -258,7 +258,7 @@
                             </div>
                             <div class="media-body">
                                 <h1>Zander Goss</h1>
-                                <h2>Final Year Student Representative</h2>
+                                <h2>Final Year Student Representative & Vice President</h2>
                                 <p><a href="mailto:alexander.goss.13@ucl.ac.uk">alexander.goss.13@ucl.ac.uk</a></p>
                                 <p class="committee-role">Society representative for final year students.</p> 
                             </div>

@@ -132,6 +132,7 @@
                                 <h2>Overseas Officer</h2>
                                 <p><a href="mailto:godwin.gelun.14@ucl.ac.uk">godwin.gelun.14@ucl.ac.uk</a></p>
                                 <p class="committee-role">Responsible for the well-being of overseas students.</p>
+                                 <p>Godwin oversaw the creation of UCL Law Society's first <a href="https://drive.google.com/file/d/0B0GHBKS71bFIbUMyaHJXYS1aNGs/view">International Careers Guide</a>
                             </div>
                         </li>
                     </ul>

@@ -75,26 +75,17 @@
             <div class="col-md-10">
                 <h1 class="law-header">Bar Careers</h1>
                 <p>
-                    Please
-                    be aware that this section of the website is currently being updated.  If you have any questions, and for
-                    more up to date information, please contact me using the UCL Laws year group Facebook pages.
+                    The Bar Careers programme takes place in the second term of the academic year.</p>
+                    
+                 <p>If you have any questions, please <a href="mailto:matthew.hastings.13@ucl.ac.uk"> email me </a>or contact me using the UCL Laws year group Facebook pages.
                 </p>
                 <p>
-                    <strong>Matt Hastings</strong><br />
+                    <strong><a href="mailto:matthew.hastings.13@ucl.ac.uk">Matt Hastings</a></strong><br />
                     Bar Careers Secretary
                 </p>
 
                 <h1 class="law-header">Latest News</h1>
-                <p>
-                    I am very pleased to announce the imminent arrival of
-                    the Bar Careers Program 2014. Please take note of all
-                    of the information below, as well as advice and tips
-                    further down the page.
-                </p>
-                <p>
-                    Best,<br>
-                    <em>Sparsh</em>
-                </p>
+                <p> Details of the 2016 programme will appear soon</p>
 
                 <?PHP
                 $number=1;
@@ -104,7 +95,7 @@
 
                 <p>
                     <b>The UCL Law Faculty's Barristers' Cocktail Party</b>
-                    will be taking place in <b> February (exact date and venue tbc)</b>. For one night only
+                    will be taking place in <b> February 2016 (exact date and venue tbc)</b>. For one night only
                     senior members of the Judiciary and Bar will be coming
                     to UCL to talk to students about life as a barrister
                     or judge, as well as their particular practice areas,
@@ -125,9 +116,9 @@
                     note the following dates:
                 </p>
                 <ul>
-                    <li><b>1st March 2013:</b> The Pupillage Gateway may be accessed for browsing vacancies.</li>
-                    <li><b>1st April 2013:</b> Applications open.</li>
-                    <li><b>9th May 2013:</b> Applications close.</li>
+                    <li><b>1st March 2016:</b> The Pupillage Gateway may be accessed for browsing vacancies.</li>
+                    <li><b>1st April 2016:</b> Applications open.</li>
+                    <li><b>early May 2016:</b> Applications close.</li>
                 </ul>
                 <p>
                     Please visit the <a href="http://www.pupillagegateway.com/applicant-home/" target="_new">Pupillage Gateway website</a> for
@@ -166,12 +157,12 @@
 
                 <p><strong>Important Dates to Keep in Mind are as follows:</strong></p>
                 <dl class="dl-horizontal">
-                    <dt>7th November 2014</dt>
+                    <dt>6th November 2015</dt>
                     <dd>
                         Closing date for applications for BPTC scholarships provided by the Inns of Court. Please note you
                         may only apply to one Inn for a scholarship.
                     </dd>
-                    <dt>31st May 2015</dt>
+                    <dt>31st May 2016</dt>
                     <dd>Closing date for applications to join an Inn of Court.</dd>
                 </dl>
                 <p>
@@ -377,8 +368,10 @@
                 <h3 class="law-header">The Bar Proces</h3>
                 <img class="img-responsive" src="images/thebarprocess.png" alt="The Bar Process" />
 
+<!--    
+
                 <h3 class="law-header">Mini Pupilage Deadlines</h3>
-                <p>Please note that this section is now out of date, and is in the process of being updated</p>
+                <p>Please note that this section is in the process of being updated</p>
 
 
                 <table border="1" cellspacing="5" cellpadding="5">
@@ -721,7 +714,7 @@
                     </tr>
                 </table>
 
-
+-->
 
 
             </div>

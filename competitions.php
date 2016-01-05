@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -156,7 +156,7 @@
 
         <div class="row">
             <div class="col-md-10">
-                <h2 class="law-header">Competitions Overiew</h2>
+                <h2 class="law-header">Competitions Overview</h2>
                 <?PHP
 					$number=1;
 					$category=8;

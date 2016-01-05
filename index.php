@@ -81,7 +81,7 @@
                 ?>
             </div>
             <div class="col-md-6">
-                <h3>Latest News</h3>
+                <h3>Society Information</h3>
                 <?PHP
                 $number=3;
                 $template="Latest";
