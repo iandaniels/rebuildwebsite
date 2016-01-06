@@ -251,23 +251,123 @@
             </div>
         </div> <!-- row -->
         
-        <!--
         <div class="row">
             <hr/>
             
             <div class="col-md-10">
-                <h2>Cheap Eats Header!</h2>    
+                <h1><a name="cheapeats"></a>Cheap Eats near the Law Faculty</h1>    
             </div>
             <div class="col-md-6">
-                <h2>Cheap Eats</h2>
-                <p>Coming soon</p>        
+                <h2>Coffee, Cake, and Sarnies</h2>
+                
+                <div class="thumbnail">
+                    <img class="img-responsive" src="images/kampspizza.jpg" />
+                    <div class="caption">
+                        Kamps "flatbread pizza"
+                    </div>
+                </div>        
+                <dl>
+                    <dt><a href="https://www.waitrose.com">Waitrose</a></dt>
+                    <dd><p>Free tea and coffee – obtain a free <a href="http://www.waitrose.com/content/waitrose/en/home/mywaitrose/mywaitrose_welcome.html">My Waitrose card</a>, 
+                    which entitles you to a hot drink once every day: nearest branch is in 
+                    the <a href= "[http://www.waitrose.com/bf_home/bf/207.html#">Brunswick Centre.</a></p>
+                    </dd>
+                    
+                    <dt><a href="[https://www.facebook.com/quakercentrecafe">Quaker Centre Cafe</a></dt>
+                    <dd><p>173 Euston Road. HQ of the Quakers. Peace, love, big mugs of coffee, home made cakes, 
+                        soups and snacks and 10% off if you flash your UCL student card. Has tons of quiet study space. </p>
+                    </dd>
+                    
+                    <dt><a href="https://30eustonsquare.co.uk/portfolio/cafe-caritas/#!">Cafe Caritas</a></dt>
+                    <dd><p>30 Euston Square. Café in the Royal College of General Practitioners headquarters. 
+                        Open 8am-8pm. Free WiFi and lots of tables for study. Really 
+                        cheap <a href="https://30eustonsquare.co.uk/wp-content/uploads/2015/01/Cafe-Caritas-Menu.pdf">menu</a></p>
+                    </dd>
+                    
+                    <dt>Upper Fleet Bakery <a href="https://twitter.com/upperfleet">@upperfleet</a></dt>
+                    <dd><p>7-11 Upper Woburn Pl, London WC1H 0JW. Cavernous caf&eacute; in the ground floor of the County Hotel, 
+                        half way between Bentham and Bidborough.  Nice big tables for study. Soup, salad, quiche, etc.  
+                        Free WiFi. 7.30am-7pm.</p></dd>    
+                    
+                    <dt><a href="http://senatehouselibrary.ac.uk/using-the-library/south-block-cafe/">Senate House Library Caf&eacute;</a></dt>
+                    <dd><p>Ground floor, South block Senate House. Fairtrade coffee, sarnies, soup and jacket potatoes in the UoL 
+                        Library building. On Eduroam.</p></dd>
+                   
+                    <dt>Presto Caf&eacute; - 1st Floor Cruciform Building</dt>
+                    <dd><p>The UCL caf&eacute; that students outside of biomedical research don't know about. 
+                        Does bacon sarnies in the morning.</p></dd>
+                    
+                    <dt><a href="www.kamps.co.uk">Kamps</a></dt>
+                    <dd><p>155 Tottenham Court Road. Forget Pret. The best sandwiches, pastries and flatbreads are to be found at the 
+                        London outpost of this German chain. Lots of tables in the basement. Free WiFi.</p></dd>                                                                 
+                 </dl>  
+                   
+                <h2>Pizza</h2>
+                <dl>                        
+                    <dt><a href="http://icco.co.uk">Icco</a></dt>
+                    <dd><p>46 Goodge Street. 12” pizzas, prepared to order, 
+                        from &pound;4. Caters well for veggies and vegans. Perennial UCL student favourite.</p></dd> 
+                </dl>
+                
             </div>
             <div class="col-md-6">
-                <h2>Cheap Eats Col 2</h2>
-                <p>Coming soon</p>
+                
+                <h2>SE Asian</h2>
+                    <dl>
+                        <dt><a href="https://www.facebook.com/rotikinglondon">Roti King</a></dt>
+                        <dd><p>40 Doric Way, Euston, London NW1 1LH. The freshest and best roti canai in London for &pound;4. 
+                            Spun in the air and cooked in front of you by the Roti King himself.  
+                            Fantastic kari laksa. Terrifying queues unless you arrive early.</p></dd>  
+                        
+                        <dt><a href="https://www.facebook.com/pages/LAKSA-KING-London/639921356129425">Laksa King</a></dt>
+                        <dd><p>126 Drummond Street NW1. If you can't get into Roti King, head to the other side of 
+                            Euston station for this cheap and cheerful Malay/Chinese place. </p></dd>  
+                        
+                        <dt>Chop Chop Noodle Bar</dt>
+                        <dd><p>Freshly reopened after an unfortunate run-in with Camden Council's environmental health department. 
+                            Cheap and tasty SE Asian meals from £4.50. Eat in or take away 5 mins from Bidborough.</p></dd>  
+                        
+                        <dt>H-Mart Korean Supermarket</dt>
+                        <dd><p>115 Tottenham Court Road. W1T 5AH. Huge range of fresh and preserved Korean food at low prices. 
+                            Also sells K-pop and Korean cosmetics, a surprisingly large number of which are made from 
+                            snail mucous. Really.</p></dd>
+                    
+                        <dt>Nyonya Singaporean Kitchen</dt>
+                        <dd><p>11 Warren Street. W1T 5LG. Straits Chinese lunchtime place (eat in or takeaway) with most meals 
+                            around &pound;6. Free prawn crackers!</p></dd>
+                    </dl>
+ 
+                
+ 
+                <div class="thumbnail">
+                    <img class="img-responsive" src="images/rotikinglaksa.jpg" width="200px" />
+                    <div class="caption">
+                        Roti King Laksa
+                    </div>
+                </div>    
+ 
+                    <h2>South Asian</h2>
+                    <dl>
+                        <dt>Rasa Express</dt>
+                        <dd><p>327 Euston Road – Behind Warren St station. Superb food, excellent value lunch boxes. Eat a veggie 
+                            Thali of basmati rice, bread, two veg curries, stir fried veg dish, and a dessert for &pound;4 and 
+                            &pound;4.50 for a meat version. </p></dd>
+                        
+                        <dt>Drummond Street</dt>
+                        <dd><p>5 mins from Bidborough and famous for its Indian restaurants. Most offer ‘eat as much as you like' 
+                            lunches for &pound;6.95. The best are the vegetarians, Diwana (no 121), Chutneys (no 124), 
+                            and Ravi Shankar (no 133).
+                        </p></dd>
+                        
+                        <dt>Chettinad</dt>
+                        <dd><p>16 Percy Street and Sagar 17a Percy Street W1T 1DT. Two neighbouring and rival south Indian 
+                            restaurants off Tottenham Court Road. Both do excellent &pound;5 lunchtime deals.
+                        </p></dd> 
+                    </dl>
+
             </div>
         </div> 
-        -->
+        
         
     </div>
     <footer class="footer navbar-inverse">

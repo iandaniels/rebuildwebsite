@@ -83,7 +83,7 @@
             <div class="col-md-6">
                 <h3>Society Information</h3>
                 <?PHP
-                $number=3;
+                $number=4;
                 $template="Latest";
                 $category=3;
                 require './content/show_news.php';
