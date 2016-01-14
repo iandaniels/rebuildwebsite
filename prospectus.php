@@ -63,6 +63,7 @@
                     <li><a href="about.php">ABOUT</a></li>
                     <li><a href="fahadscorner.php">FAHAD'S CORNER</a></li>
                     <li class="active"><a href="prospectus.php">PROSPECTUS</a></li>
+                    <li><a href="https://drive.google.com/file/d/0B0GHBKS71bFIWHdVcTNnNGRHcGs/view?usp=sharing">Message from our Sponsor HSF</a></li>
                 </ul>
             </div>
         </div>
