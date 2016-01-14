@@ -32,10 +32,17 @@
 <body>
 
     <!-- Static navbar -->
-    <nav class="navbar navbar-inverse navbar-static-top">
+    <!-- <nav class="navbar navbar-inverse navbar-static-top">
         <div class="container">
             <div class="text-center">
                 <h3><img alt="UCL Law Soc" src="images/lawsoclogo.png" /></h3>
+            </div>
+    -->        
+    <!-- <nav class="navbar navbar-inverse navbar-static-top"> -->
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="text-center">
+                <h3><img alt="UCL Law Soc" src="images/lawsoclogo.png" /> &nbsp; sponsored by &nbsp; <img style="padding: 5px;" alt="Herbert Smith Freehills" src="images/sponsors/logo-herbert-smith.gif"/></h3>
             </div>
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
