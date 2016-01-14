@@ -32,11 +32,10 @@
 <body>
 
     <!-- Static navbar -->
-    <!-- <nav class="navbar navbar-inverse navbar-static-top"> -->
-    <nav class="navbar navbar-default navbar-static-top">
+    <nav class="navbar navbar-inverse navbar-static-top">
         <div class="container">
             <div class="text-center">
-                <h3><img alt="UCL Law Soc" src="images/lawsoclogo.png" /> &nbsp; sponsored by &nbsp; <img style="padding: 5px;" alt="Herbert Smith Freehills" src="images/sponsors/logo-herbert-smith.gif"/></h3>
+                <h3><img alt="UCL Law Soc" src="images/lawsoclogo.png" /></h3>
             </div>
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -80,7 +79,7 @@
             <div class="col-md-5">
                 <h3 class="law-header">Current Edition Winter 2015</h3>
                 <p>
-                    Silk v Brief can be viewed on this page, or downloaded <a href="https://drive.google.com/file/d/0B0GHBKS71bFIc3RPd0lWRDRFWWs/view?usp=sharing">here</a>.
+                    Silk v Brief can be viewed on this page, or downloaded <a href="https://drive.google.com/file/d/0B0GHBKS71bFIS29ZMWdyQUtlUWs/view?usp=sharing">here</a>.
                 </p>    
                 <h3 class="law-header">Note from the Editor</h3>
                 <p>
@@ -110,8 +109,7 @@
 
 
             <div class="col-md-5">
-                <div data-configid="13146637/32258646" style="width:525px; height:679px;" class="issuuembed"></div>
-                <script type="text/javascript" src="//e.issuu.com/embed.js" async></script>
+                 <div data-configid="13146637/32730793" style="width:525px; height:346px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script> 
             </div>
 
         </div>
