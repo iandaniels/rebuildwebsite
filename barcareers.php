@@ -74,8 +74,6 @@
         <div class="row">
             <div class="col-md-10">
                 <h1 class="law-header">Bar Careers</h1>
-                <p>
-                    The Bar Careers programme takes place in the second term of the academic year.</p>
                     
                  <p>If you have any questions, please <a href="mailto:matthew.hastings.13@ucl.ac.uk"> email me </a>or contact me using the UCL Laws year group Facebook pages.
                 </p>
@@ -85,7 +83,6 @@
                 </p>
 
                 <h1 class="law-header">Latest News</h1>
-                <p> Details of the 2016 programme will appear soon</p>
 
                 <?PHP
                 $number=1;
@@ -93,9 +90,10 @@
                 require './content/show_news.php';
                 ?>
 
+                <h3 class="law-header">Barristers' Cocktail Party</h3>
                 <p>
                     <b>The UCL Law Faculty's Barristers' Cocktail Party</b>
-                    will be taking place in <b> February 2016 (exact date and venue tbc)</b>. For one night only
+                    will be taking place on <b> 24th February 2016 (venue tbc)</b>. For one night only
                     senior members of the Judiciary and Bar will be coming
                     to UCL to talk to students about life as a barrister
                     or judge, as well as their particular practice areas,
@@ -110,7 +108,7 @@
                     <strong>SPACES ARE LIMITED</strong> so keep your eyes peeled as the link to reserve tickets will appear here when available.
                 </p>
 
-                <h3 class="law-header">Pupilage</h3>
+                <h3 class="law-header">Pupillage</h3>
                 <p>
                     For those students currently applying for pupillage, please
                     note the following dates:
